@@ -1,0 +1,18 @@
+{
+    "name": "Calculator",
+    "short_name": "Calculator",
+    "description": "Simple offline calculator",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "./assets/icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
